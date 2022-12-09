@@ -1,3 +1,7 @@
 podklady
 xkucha28.tar.gz
 xkucha28.pdf
+get_midi_table.py
+processor.py
+*.mid
+*.pyc
